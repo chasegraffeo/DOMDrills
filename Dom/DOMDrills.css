@@ -1,0 +1,36 @@
+.h1{
+    text-transform: uppercase;
+    color: blue;
+}
+
+.h2{
+    text-transform: uppercase;
+    color: blueviolet;
+}
+
+.h3{
+    text-transform: uppercase;
+    color: tomato;
+}
+
+.h4{
+    text-transform: uppercase;
+    color: cadetblue;
+}
+
+.h5 {
+    text-transform: uppercase;
+    color: chartreuse;
+}
+
+.h6{
+    text-transform: uppercase;
+    color: coral;
+}
+body {
+    background-color: black;
+}
+
+li{
+    color: white;
+}
